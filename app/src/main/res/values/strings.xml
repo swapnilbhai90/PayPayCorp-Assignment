@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PPCurrencyConverter</string>
+    <string name="spinner_prompt">Choose the Country Code</string>
+</resources>
